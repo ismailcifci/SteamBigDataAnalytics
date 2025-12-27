@@ -292,10 +292,6 @@ The project is organized as a series of Jupyter notebooks that should be execute
 
 This project is for educational and research purposes.
 
-## Contact
-
-For questions or issues, please refer to the notebook documentation or create an issue in the repository.
-
 ---
 
 **Last Updated**: December 2025
