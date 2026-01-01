@@ -271,23 +271,6 @@ The project is organized as a series of Jupyter notebooks that should be execute
 - Model evaluation metrics
 - Feature importance visualizations
 
-## Notes
-
-- All notebooks include detailed markdown explanations
-- Code is commented for clarity
-- Results are interpreted and discussed in each notebook
-- Preprocessing steps are critical - run in order
-- Some operations may take time depending on system resources
-
-## Future Enhancements
-
-- Temporal analysis (release date, seasonal patterns)
-- External data integration (marketing spend, competition)
-- Genre-specific prediction models
-- Publisher strategy analysis over time
-- Real-time prediction API
-- Advanced clustering techniques (DBSCAN, hierarchical)
-
 ## License
 
 This project is for educational and research purposes.
